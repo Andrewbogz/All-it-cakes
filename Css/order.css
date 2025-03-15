@@ -154,6 +154,10 @@ a:hover{
 .form label {
     position: relative;
 }
+
+textarea{
+    width: 100%;
+}
  
 .form label input {
     width: 100%;
